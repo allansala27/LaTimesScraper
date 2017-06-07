@@ -1,0 +1,27 @@
+{
+  "name": "news-scraper",
+  "version": "1.0.0",
+  "description": "A scraper for the LA Times",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allansala27/LaTimesScraper.git"
+  },
+  "author": "Allan Salandanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allansala27/LaTimesScraper/issues"
+  },
+  "homepage": "https://github.com/allansala27/LaTimesScraper#readme",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "cheerio": "^1.0.0-rc.1",
+    "express": "^4.15.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^4.10.5",
+    "request": "^2.81.0"
+  }
+}
