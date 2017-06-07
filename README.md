@@ -1,7 +1,7 @@
 # HW - {LaTimesScraper}
 
 ## Live Link 
-- Not yet available
+- https://la-times-scraper.herokuapp.com/
 
 ## Description on how to use the app
 - Press the scrape article button and you will be show the most popular articles on the LA Times website. You can also choose to save articles and add notes to saved articles. These notes can also be deleted.
