@@ -16,6 +16,10 @@ app.use(express.static("public"));
 app.engine("handlebars", exphbs({ defaultLayout: "main" }));
 app.set("view engine", "handlebars");
 
+// Connect to MongoLab
+// var uri = "mongodb://heroku_n5l9t0tg:kgou0hutouhktb4631eo87pjri@ds015919.mlab.com:15919/heroku_n5l9t0tg";
+// mongoose.connect(uri);
+
 // Routes
 
 
